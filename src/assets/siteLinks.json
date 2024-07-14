@@ -3,5 +3,15 @@
     "icon": "Blog",
     "name": "Blog",
     "link": "https://blog.huanghe.shop/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "SnowStorm",
+    "link": "https://snowstorm.huanghe.shop/"
+  },
+  {
+    "icon": "Compass",
+    "name": "卡网",
+    "link": "https://shop.huanghe.shop/"
   }
 ]
